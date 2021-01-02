@@ -1,6 +1,6 @@
 name: "Hello Actions"
 description: "Greet Someone"
-author:"octacat@github.com
+author: "octacat@github.com"
 
 inputs:
   MY_NAME:
@@ -13,5 +13,5 @@ runs:
   image: "Dockerfile"
 
 branding:
-  icon:"mic"
+  icon: "mic"
   color: "purple"
